@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+}
+
+main{
+  padding-top: 100px;
+  background-color: #2f4f4f;
+  background: url("cover_no_buttons.jpg")
+  no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.about{
+  padding-top: 100px;
+  background-color: #2f4f4f;
+  background: url("forst.jpg")
+  no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.buttons{
+  margin-right:auto !important;
+  margin-left:auto !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 330px !important;
+  width: 650px !important;
+}
+
+
+header{
+  display: none;
+  position: relative;
+  background-color: #2B2B2B;
+  padding-bottom: 20px;
+  margin-top: 0px;
+}
+
+footer{
+  position: fixed; bottom: 0;
+  background-color: #2B2B2B;
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 5px;
+  color: white;
+}
+
+/* a{
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #2B2B2B;
+}
+
+img{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+}
+
+*/
+
+p {
+  color: white;
+  font: sans-serif;
+  padding-left: 40px;
+  font-size: 20px;
+}
+
+.profile{
+  border-radius: 50%;
+  width: 250px !important;
+}
+/*button{
+  padding: 8px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+} */
