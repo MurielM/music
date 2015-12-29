@@ -5,7 +5,7 @@ body{
 .home{
   padding-top: 100px;
   background-color: #2f4f4f;
-  background: url("cover_no_buttons.jpg")
+  background: url("cover_no_words.jpg")
   no-repeat center center;
   background-size: cover;
   height: 100vh;
@@ -28,8 +28,12 @@ body{
 }
 
 .homebuttons{
-  padding-top: 23% !important;
-  width: 650px !important;
+  width: 50% !important;
+  padding-top: 10px;
+}
+
+.name{
+  padding-top: 13% !important;
 }
 
 header{
